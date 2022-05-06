@@ -4,7 +4,7 @@ function B1(){
 		alert(`안돼. 돌아가.`);
 	} else if(GetName >= 14 && GetName <= 30){
 		alert(`환영합니다!`);
-		location.href = 'h.youtube.com/channel/UCKraQ8YoNZupNbgmW3gQkoA';
+		location.href = 'www.youtube.com';
 	} else if(GetName > 30){
 		alert(`구라ㄴ`)
 	} else if(GetName == 0){
