@@ -4,7 +4,7 @@ function B1(){
 		alert(`안돼. 돌아가.`);
 	} else if(GetName >= 14 && GetName <= 30){
 		alert(`환영합니다!`);
-		location.href = '주소.온라인.한국';
+		location.href = 'http://xn--9l4b19k.xn--oi2b61z32a.xn--3e0b707e/';
 	} else if(GetName > 30){
 		alert(`구라ㄴ`)
 	} else if(GetName == 0){
