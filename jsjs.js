@@ -4,7 +4,7 @@ function B1(){
 		alert(`안돼. 돌아가.`);
 	} else if(GetName >= 14 && GetName <= 30){
 		alert(`환영합니다!`);
-		location.href = 'https://www.youtube.com/index';
+		location.href = '주소.온라인.한국';
 	} else if(GetName > 30){
 		alert(`구라ㄴ`)
 	} else if(GetName == 0){
